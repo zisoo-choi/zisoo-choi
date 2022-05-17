@@ -1,6 +1,4 @@
 ### <!--<h2 align="center" font-weight="bold">Hi there</h2>-->
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FDEE21&height=300&section=header&text=zisoo%20choi&fontSize=90&fontColor=FFFFFF)
-
 
 <!--
 **zisoo-choi/zisoo-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
