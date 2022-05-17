@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-0170FE?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</p>
 
 <h2>🔧 Tools </h2>
 <p>
