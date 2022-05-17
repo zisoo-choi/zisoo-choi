@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">💻 learning</h2>
-<p align="center">
+<h2>💻 learning</h2>
+<p>
 <img src="https://img.shields.io/badge/C-14161A?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-0170FE?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
-<h2 align="center">🔧 Tools </h2>
-<p align="center">
+<h2>🔧 Tools </h2>
+<p>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </p>
 
