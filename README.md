@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 learning : <img src="https://img.shields.io/badge/C언어-90E59A?style=flat&logo=C&logoColor=black"/>
+🌱 learning : <img src="https://img.shields.io/badge/C언어-90E59A?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+
 
